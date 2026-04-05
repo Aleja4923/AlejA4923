@@ -7,7 +7,7 @@
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> <strong>Sobre mí</strong>
 
-Desarrolladora junior con enfoque fullstack, actualmente en formación en Campuslands. Me mueven la tecnología, la lógica, y sobre todo la capacidad de crear soluciones reales. Tengo una fuerte inclinación autodidacta y creo firmemente en aprender para innovar.  
+Desarrolladora junior con enfoque fullstack, actualmente en formación en inginiera en sistemas. Me mueven la tecnología, la lógica, y sobre todo la capacidad de crear soluciones reales. Tengo una fuerte inclinación autodidacta y creo firmemente en aprender para innovar.  
 Mi enfoque está en la **resolución de problemas**, el pensamiento estratégico y la eficiencia.
 
 - 🎓 Formación técnica en desarrollo de sofw.
